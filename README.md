@@ -1,4 +1,5 @@
 # MGM_Raspi
+MGM 프로젝트 스마트팜 코드입니다. [MGM-백엔드](https://github.com/logg9715/MGM), [MGM-프론트](https://github.com/logg9715/MGM_React_View)와 연계됩니다. 
 
 ## 준비
 1. [Wiring pi](https://github.com/GrazerComputerClub/WiringPi.git) 설치
