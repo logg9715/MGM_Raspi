@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 라우터의 외부 IP 주소
-PUBLIC_IP="175.123.202.85"
+PUBLIC_IP="YOUR_IP"
 
 # 내부 IP 주소와 포트 번호 설정
 declare -A PORT_MAPPINGS=(
