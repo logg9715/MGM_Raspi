@@ -10,6 +10,8 @@
 
 ## 통신설계
 ![image](https://github.com/user-attachments/assets/5f161526-46d5-476e-9632-dd3c04d0098b)
+![image](https://github.com/user-attachments/assets/f2cdd81a-6d6a-4f7a-a89b-313a6a721b63)
+
 
 ## raspi 내부 통신
 ![image](https://github.com/user-attachments/assets/6e152822-5b21-4273-af89-fcc117b0ab7f)
