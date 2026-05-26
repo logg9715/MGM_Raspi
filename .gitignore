@@ -1,0 +1,9 @@
+# Build artifacts
+*.o
+*.out
+obj/
+bin/
+nohup.out
+
+# macOS
+.DS_Store
